@@ -281,7 +281,7 @@ in [adr/](adr/README.md), which also explains how a record is written and accept
 | Decision | Status | Milestone |
 |---|---|---|
 | [Record architecture decisions](adr/0001-record-architecture-decisions.md) | accepted | P0 |
-| One tool, one repository, one executable; tools share state only through the standard AWS files | decided | P0 |
+| [One tool, one repository, one executable; tools share state only through the standard AWS files](adr/0002-one-tool-one-binary.md) | accepted | P0 |
 | Stack: Go, Wails v3, React and TypeScript; an exact pinned version and a core without framework imports | decided | P0 |
 | Credentials stay in memory; Hopdeck only reads the AWS files | proposed | P0 |
 | Distribution without a paid certificate | proposed | P0 |
