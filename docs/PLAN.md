@@ -288,7 +288,7 @@ in [adr/](adr/README.md), which also explains how a record is written and accept
 | Merge commits with signed commits (rebase merges drop signature verification) | decided | P0 |
 | Dependabot for dependency updates (first-party, no extra app with write access) | decided | P0 |
 | Windows first, Linux next; macOS after a decision on the Apple developer program | decided | P1 |
-| Deck file format: versioned YAML, no secrets, loopback listeners only | proposed | M02 |
+| [Deck file format: versioned YAML, no secrets, loopback listeners only](adr/0004-deck-file-format.md) | accepted | M02 |
 | Session Manager client: in process, or the plugin shipped next to the executable | proposed | M04 |
 | No Stop in the app: a jump host is shared | proposed | M05 |
 | Deck file signatures | proposed | M07 |
