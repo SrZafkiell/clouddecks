@@ -23,4 +23,5 @@ the record; after that, CI checks that every record has a row and every row a re
 <!-- adr-index:start -->
 | Number | Decision | Status | Step |
 |---|---|---|---|
+| [0001](0001-record-architecture-decisions.md) | Record architecture decisions | Accepted | P0-09 |
 <!-- adr-index:end -->
